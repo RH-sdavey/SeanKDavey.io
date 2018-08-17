@@ -1,4 +1,4 @@
-### Welcome to GitHub Pages
+### Sean Davey
 
 You can use the [editor on GitHub](https://github.com/RH-sdavey/seandavey.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
